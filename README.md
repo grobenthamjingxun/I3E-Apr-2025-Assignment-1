@@ -1,5 +1,5 @@
 # I3E-Apr-2025-Assignment-1
-# Unity First-Person 3D Level - PillPal Game Prototype
+# Unity First-Person 3D Level - Game Prototype
 
 Author: GrobenTham  
 Date: June 15, 2025
