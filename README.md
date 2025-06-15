@@ -1,1 +1,82 @@
 # I3E-Apr-2025-Assignment-1
+# Unity First-Person 3D Level - PillPal Game Prototype
+
+Author: GrobenTham  
+Date: June 15, 2025
+
+
+
+About This Game
+
+Welcome to my Unity first-person 3D level! You’ll explore indoor and outdoor areas, collect shiny coins, avoid tricky hazards, and hop on moving platforms. If you touch a hazard, no worries — you’ll respawn safely at the yellow block to try again.
+
+
+
+How to Play
+
+What You Need
+- A Windows PC, Mac, or Linux computer (Windows recommended)
+- Unity 2023 or newer (tested on 2023.1)
+- Keyboard and mouse
+
+Controls
+| What You Do      | How You Do It           |
+|------------------|------------------------|
+| Move forward     | W or Up Arrow          |
+| Move backward    | S or Down Arrow        |
+| Move left        | A or Left Arrow        |
+| Move right       | D or Right Arrow       |
+| Jump             | Spacebar               |
+| Look around      | Move your mouse        |
+
+
+
+What’s in the Game
+
+- Coins: Sparkly coins spin around. Grab as many as you can to boost your score, which you can see on the screen.
+
+- Hazards: Watch out for red blocks that move or spin! Touch them, and you’ll be sent back to the yellow respawn spot.
+
+- Moving Platforms: Some blocks slide left and right — time your jumps carefully or you might fall.
+
+- Score Display: Your coin count is always visible in the UI, so you know how you’re doing.
+
+
+
+## Known Issues
+
+- Moving platforms have fixed speed and don’t react to you.
+- Sometimes the respawn might feel a little jittery due to how teleporting works.
+- No sound effects yet for picking up coins or hitting hazards.
+- The game doesn’t save your progress or scores.
+- The “puzzle” is pretty straightforward — just avoid hazards and collect coins.
+
+
+
+Credits
+
+- All models are simple Unity cubes and materials — nothing fancy or external.
+- Scripts and coding by me, GrobenTham & ChatGPT.
+- UI uses Unity’s TextMeshPro for crisp on-screen text.
+
+
+
+Tips & Tricks
+
+- Collect as many coins as you can to rack up your score.
+- Stay clear of red hazards — they’ll send you back to start.
+- Watch the timing on moving platforms and jump carefully.
+
+
+
+What’s Next?
+
+If I add more features, here’s what I’d like to do:
+
+- Add sound effects to make the game more lively.
+- Create cool animations for doors or other objects.
+- Implement checkpoints so you don’t have to restart from the beginning.
+- Add more puzzles and challenges to keep things interesting.
+- Maybe add a health or lives system for more gameplay depth.
+
+
